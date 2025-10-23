@@ -1,11 +1,7 @@
 # Proba
 ## Faena
 ![GitHub Logo](/img/01.png)
-GitHub supports emoji!
-:+1: 
-:sparkles: 
-:camel: 
-:tada:
-:rocket: 
-:metal: 
-:octocat: 
+First Header | Second Header
+------------ | -------------
+Content cell 1 | Content cell 2
+Content column 1 | Content column 2
